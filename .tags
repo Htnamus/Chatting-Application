@@ -1,0 +1,7 @@
+html	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<html>$/;"	function	line:3
+head	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<head>$/;"	function	line:5
+title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<title>Webkit<\/title>$/;"	function	line:6
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="style.css" rel="stylesheet" \/>$/;"	function	line:7
+body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<body>$/;"	function	line:10
+h	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<h1>Htnamus<\/h1>$/;"	function	line:11
+h1	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^h1{$/;"	function	line:1
