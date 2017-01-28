@@ -1,7 +1,15 @@
 html	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<html>$/;"	function	line:3
 head	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<head>$/;"	function	line:5
-title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<title>Webkit<\/title>$/;"	function	line:6
-link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="style.css" rel="stylesheet" \/>$/;"	function	line:7
-body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<body>$/;"	function	line:10
-h	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<h1>Htnamus<\/h1>$/;"	function	line:11
-h1	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^h1{$/;"	function	line:1
+title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<title>Htnamus' Chatbox:<\/title>$/;"	function	line:6
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/normalize\/5.0.0\/normalize.min.css" rel="stylesheet" \/>$/;"	function	line:7
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link  href="https:\/\/fonts.googleapis.com\/css?family=Roboto" rel="stylesheet">$/;"	function	line:8
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="style.css" rel="stylesheet" \/>$/;"	function	line:9
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<div classs"main_page">$/;"	function	line:13
+h	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<h1 class="title">Htnamus<\/h1>$/;"	function	line:14
+p	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<p> My personal chatting client<\/p>$/;"	function	line:15
+button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<button class="login"> Sign in with google<\/button>$/;"	function	line:16
+body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<body>$/;"	function	line:18
+html, body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^html, body {$/;"	function	line:1
+*, *:before, *:after	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^*, *:before, *:after {$/;"	function	line:7
+.main_page	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_page{$/;"	function	line:11
+.login	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login{$/;"	function	line:15

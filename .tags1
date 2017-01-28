@@ -4,4 +4,7 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-h1	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^h1{$/;"	function	line:1
+html, body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^html, body {$/;"	function	line:1
+*, *:before, *:after	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^*, *:before, *:after {$/;"	function	line:7
+.main_page	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_page{$/;"	function	line:11
+.login	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login{$/;"	function	line:15
