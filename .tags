@@ -1,15 +1,50 @@
 html	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<html>$/;"	function	line:3
 head	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<head>$/;"	function	line:5
-title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<title>Htnamus' Chatbox:<\/title>$/;"	function	line:6
+title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<title>htnamuS' Chatbox:<\/title>$/;"	function	line:6
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/normalize\/5.0.0\/normalize.min.css" rel="stylesheet" \/>$/;"	function	line:7
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link  href="https:\/\/fonts.googleapis.com\/css?family=Roboto" rel="stylesheet">$/;"	function	line:8
-link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="style.css" rel="stylesheet" \/>$/;"	function	line:9
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<div classs"main_page">$/;"	function	line:13
-h	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<h1 class="title">Htnamus<\/h1>$/;"	function	line:14
-p	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<p> My personal chatting client<\/p>$/;"	function	line:15
-button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<button class="login"> Sign in with google<\/button>$/;"	function	line:16
-body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<body>$/;"	function	line:18
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="https:\/\/fonts.googleapis.com\/icon?family=Material+Icons" rel="stylesheet"\/>$/;"	function	line:9
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="style.css" rel="stylesheet" \/>$/;"	function	line:10
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<div class="main_page">$/;"	function	line:14
+h	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<h1 class="title">HtnamuS<\/h1>$/;"	function	line:15
+p	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<p> A chatting client built by noobs for noobs<\/p>$/;"	function	line:16
+button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<button class="login"> <i class="fa fa-google" aria-hidden="true"><\/i>Sign in with Google<\/button>$/;"	function	line:17
+i	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<i class="fa fa-google" aria-hidden="true"><\/i>$/;"	function	line:18
+body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<body>$/;"	function	line:20
 html, body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^html, body {$/;"	function	line:1
 *, *:before, *:after	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^*, *:before, *:after {$/;"	function	line:7
-.main_page	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_page{$/;"	function	line:11
-.login	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login{$/;"	function	line:15
+body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^body{$/;"	function	line:11
+.main_page	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_page{$/;"	function	line:16
+.login	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login{$/;"	function	line:26
+.login:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login:hover{$/;"	function	line:44
+.sidebar	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.sidebar{$/;"	function	line:48
+.user	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.user{$/;"	function	line:57
+.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.name{$/;"	function	line:67
+.logout	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout{$/;"	function	line:74
+.logout:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout:hover{$/;"	function	line:84
+.main_stuff	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_stuff{$/;"	function	line:89
+.chat_member:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.chat_member:hover{$/;"	function	line:100
+.chat_member	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.chat_member{$/;"	function	line:104
+.my_message	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.my_message{$/;"	function	line:115
+html	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<html>$/;"	function	line:3
+head	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<head >$/;"	function	line:5
+title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<title>Htnamus' Chatbox:<\/title>$/;"	function	line:6
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link href="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/normalize\/5.0.0\/normalize.min.css" rel="stylesheet" \/>$/;"	function	line:7
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link  href="https:\/\/fonts.googleapis.com\/css?family=Roboto" rel="stylesheet">$/;"	function	line:8
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link href="https:\/\/fonts.googleapis.com\/icon?family=Material+Icons" rel="stylesheet"\/>$/;"	function	line:9
+link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link href="style.css" rel="stylesheet" \/>$/;"	function	line:10
+body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<body class="homepage">$/;"	function	line:14
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="sidebar">$/;"	function	line:15
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="user">$/;"	function	line:16
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<div class="name">Sumanth Tangirala<\/div>$/;"	function	line:17
+button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<button class="logout">Log Out<\/button>$/;"	function	line:18
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Rohit Bangaram<\/div>$/;"	function	line:20
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Chatter1<\/div>$/;"	function	line:21
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Chatter2<\/div>$/;"	function	line:22
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_members">Chatterer:5<\/div> -->$/;"	function	line:24
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="main_stuff">$/;"	function	line:26
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="current_chatter">$/;"	function	line:27
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">Making this application<\/div>$/;"	function	line:30
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="my_message">What are you doing<\/div>$/;"	function	line:31
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">Hi\/div>$/;"	function	line:32
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="my_message">Hey there<\/div>$/;"	function	line:33
