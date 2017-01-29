@@ -3,7 +3,7 @@
 <html>
 
 <head>
-	<title>htnamuS' Chatbox:</title>
+	<title>HtnamuS' Chatbox:</title>
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" rel="stylesheet" />
 	<link  href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
@@ -14,10 +14,22 @@
 
 <body>
 	<div class="main_page">
-		<h1 class="logo">HtnamuS</h1>
+		<h1 class="logo" id="logo">HtnamuS</h1>
 		<p class="tagline" id="tag"> A chatting client built by noobs for noobs</p>
 		<button class="login" id="login"> Sign in with Google</button>
 	</div>
+	<script src="https://www.gstatic.com/firebasejs/3.6.7/firebase.js"></script>
+	<script>
+  	// Initialize Firebase
+  		var config = {
+    			apiKey: "AIzaSyBG9XgGXR6MY0aahZNQ6YP4lHslRGk5gCc",
+    			authDomain: "htnamus-chat.firebaseapp.com",
+    			databaseURL: "https://htnamus-chat.firebaseio.com",
+    			storageBucket: "htnamus-chat.appspot.com",
+    			messagingSenderId: "225868183294"
+  		};
+  		firebase.initializeApp(config);
+	</script>
 	<script type="text/javascript" src="functions.js"></script>
 	<script type="text/javascript" src="app.js"></script>
 </body>

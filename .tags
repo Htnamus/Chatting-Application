@@ -1,56 +1,23 @@
 html	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<html>$/;"	function	line:3
 head	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<head>$/;"	function	line:5
-title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<title>htnamuS' Chatbox:<\/title>$/;"	function	line:6
+title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<title>HtnamuS' Chatbox:<\/title>$/;"	function	line:6
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/normalize\/5.0.0\/normalize.min.css" rel="stylesheet" \/>$/;"	function	line:7
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link  href="https:\/\/fonts.googleapis.com\/css?family=Roboto" rel="stylesheet">$/;"	function	line:8
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="https:\/\/fonts.googleapis.com\/icon?family=Material+Icons" rel="stylesheet"\/>$/;"	function	line:9
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<link href="style.css" rel="stylesheet" \/>$/;"	function	line:10
 body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^<body>$/;"	function	line:15
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<div class="main_page">$/;"	function	line:16
-h	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<h1 class="logo">HtnamuS<\/h1>$/;"	function	line:17
+h	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<h1 class="logo" id="logo">HtnamuS<\/h1>$/;"	function	line:17
 p	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<p class="tagline" id="tag"> A chatting client built by noobs for noobs<\/p>$/;"	function	line:18
 button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^		<button class="login" id="login"> Sign in with Google<\/button>$/;"	function	line:19
-script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<script type="text\/javascript" src="functions.js"><\/script>$/;"	function	line:21
-script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<script type="text\/javascript" src="app.js"><\/script>$/;"	function	line:22
-click	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function click(elementId,fn){$/;"	function	line:1
-click	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function click(elementId,fn){$/;"	function	line:1
-redirect	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function redirect(path){$/;"	function	line:9
-redirect	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function redirect(path){$/;"	function	line:9
-logInUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInUser(){$/;"	function	line:13
-logInUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInUser(){$/;"	function	line:13
-user1.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^var user1={$/;"	property	line:1
-user1.id	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^	name: "Htnamus",$/;"	property	line:2
-sayHello	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^	sayHello: function(){$/;"	function	line:4
-user1.sayHello	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^	id:2,$/;"	method	line:3
-user2.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^var user2={$/;"	property	line:9
-user2.id	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^	name: "Htnamus2",$/;"	property	line:10
-sayHello	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^	sayHello: function(){$/;"	function	line:12
-user2.sayHello	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^	id:2,$/;"	method	line:11
-users	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^var users=[$/;"	variable	line:17
-html, body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^html, body {$/;"	function	line:1
-*, *:before, *:after	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^*, *:before, *:after {$/;"	function	line:7
-body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^body{$/;"	function	line:11
-body.homepage	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^body.homepage{$/;"	function	line:15
-.main_page	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_page{$/;"	function	line:20
-.login	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login{$/;"	function	line:30
-.login:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login:hover{$/;"	function	line:48
-.sidebar	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.sidebar{$/;"	function	line:52
-.user	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.user{$/;"	function	line:61
-.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.name{$/;"	function	line:71
-.logout	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout{$/;"	function	line:78
-.logout:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout:hover{$/;"	function	line:88
-.main_stuff	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_stuff{$/;"	function	line:93
-.chat_member:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.chat_member:hover{$/;"	function	line:104
-.chat_member	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.chat_member{$/;"	function	line:109
-.my_message	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.my_message{$/;"	function	line:120
-.other_message	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.other_message{$/;"	function	line:133
-.textBox	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.textBox{$/;"	function	line:146
-.text	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.text{$/;"	function	line:155
-.send	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.send{$/;"	function	line:165
-.send:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.send:hover{$/;"	function	line:175
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<script src="https:\/\/www.gstatic.com\/firebasejs\/3.6.7\/firebase.js"><\/script>$/;"	function	line:21
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<script>$/;"	function	line:22
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<script type="text\/javascript" src="functions.js"><\/script>$/;"	function	line:33
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/index.html	/^	<script type="text\/javascript" src="app.js"><\/script>$/;"	function	line:34
+ifUserIsLoggedIn	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/app.js	/^ifUserIsLoggedIn(function(){$/;"	function	line:2
 html	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<html>$/;"	function	line:3
 head	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<head >$/;"	function	line:5
-title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<title>Htnamus' Chatbox:<\/title>$/;"	function	line:6
+title	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<title>HtnamuS' Chatbox:<\/title>$/;"	function	line:6
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link href="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/normalize\/5.0.0\/normalize.min.css" rel="stylesheet" \/>$/;"	function	line:7
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link  href="https:\/\/fonts.googleapis.com\/css?family=Roboto" rel="stylesheet">$/;"	function	line:8
 link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link href="https:\/\/fonts.googleapis.com\/icon?family=Material+Icons" rel="stylesheet"\/>$/;"	function	line:9
@@ -58,13 +25,12 @@ link	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<link href="
 body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<body class="homepage">$/;"	function	line:14
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="sidebar">$/;"	function	line:15
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="user">$/;"	function	line:16
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<div class="name">Sumanth Tangirala<\/div>$/;"	function	line:17
-button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<button class="logout">Log Out<\/button>$/;"	function	line:18
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Rohit Bangaram<\/div>$/;"	function	line:20
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Chatter1<\/div>$/;"	function	line:21
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Chatter2<\/div>$/;"	function	line:22
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="main_stuff">$/;"	function	line:24
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="current_chatter">$/;"	function	line:25
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<div class="name">$/;"	function	line:17
+span	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^				<span id="username"><\/span>$/;"	function	line:18
+button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<button class="logout">Log Out<\/button>$/;"	function	line:20
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member" id="chat_member">$/;"	function	line:22
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="main_stuff">$/;"	function	line:26
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="currentChatter" >Rohit Bangaram<\/div>$/;"	function	line:27
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">Hi<\/div>$/;"	function	line:28
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="my_message">Hey there<\/div>$/;"	function	line:29
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">What are you doing?<\/div>$/;"	function	line:30
@@ -74,3 +40,58 @@ br	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<br><br>$/;"	
 br	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<br><br><br><br>		<form>$/;"	function	line:35
 input	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		 	<input type="text" class="text" name="text" placeholder="  Enter the message...">$/;"	function	line:36
 input	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<input type="submit" class="send" value="Send">$/;"	function	line:37
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<script src="https:\/\/www.gstatic.com\/firebasejs\/3.6.7\/firebase.js"><\/script>$/;"	function	line:40
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<script>$/;"	function	line:41
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<script type="text\/javascript" src="functions.js"><\/script>$/;"	function	line:52
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<script type="text\/javascript" src="app.js"><\/script>$/;"	function	line:53
+script	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<script type="text\/javascript" src="chat.js"><\/script>$/;"	function	line:54
+ifUserIsLoggedIn	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.js	/^ifUserIsLoggedIn(function(){$/;"	function	line:1
+loadUsers	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.js	/^	loadUsers(function(users){$/;"	function	line:3
+html, body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^html, body {$/;"	function	line:1
+*, *:before, *:after	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^*, *:before, *:after {$/;"	function	line:7
+body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^body{$/;"	function	line:11
+body.homepage	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^body.homepage{$/;"	function	line:15
+.main_page	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_page{$/;"	function	line:20
+.login	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login{$/;"	function	line:30
+.login:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login:hover{$/;"	function	line:48
+.sidebar	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.sidebar{$/;"	function	line:53
+.user	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.user{$/;"	function	line:62
+.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.name{$/;"	function	line:72
+.logout	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout{$/;"	function	line:79
+.logout:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout:hover{$/;"	function	line:89
+.main_stuff	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_stuff{$/;"	function	line:94
+.members:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.members:hover{$/;"	function	line:105
+.chat_member	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.chat_member{$/;"	function	line:111
+.members	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.members{$/;"	function	line:117
+.currentChatter	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.currentChatter{$/;"	function	line:127
+.my_message	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.my_message{$/;"	function	line:140
+.other_message	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.other_message{$/;"	function	line:154
+.textBox	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.textBox{$/;"	function	line:168
+.text	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.text{$/;"	function	line:178
+.send	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.send{$/;"	function	line:188
+.send:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.send:hover{$/;"	function	line:198
+click	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function click(elementId,fn){$/;"	function	line:1
+click	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function click(elementId,fn){$/;"	function	line:1
+redirect	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function redirect(path){$/;"	function	line:8
+redirect	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function redirect(path){$/;"	function	line:8
+logInUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInUser(){$/;"	function	line:12
+logInUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInUser(){$/;"	function	line:12
+logInWithGoogle	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInWithGoogle(){$/;"	function	line:15
+logInWithGoogle	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInWithGoogle(){$/;"	function	line:15
+createUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function createUser(uid, uname, uemail){$/;"	function	line:26
+createUser.user.id	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^	var user={$/;"	property	line:29
+createUser.user.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^		id:uid,$/;"	property	line:30
+createUser.user.email	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^		name:uname,$/;"	property	line:31
+createUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function createUser(uid, uname, uemail){$/;"	function	line:26
+ifUserIsLoggedIn	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function ifUserIsLoggedIn(fn){$/;"	function	line:45
+ifUserIsLoggedIn	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function ifUserIsLoggedIn(fn){$/;"	function	line:45
+getElement	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getElement(id){$/;"	function	line:60
+getElement	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getElement(id){$/;"	function	line:60
+updateUserData	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function updateUserData(){$/;"	function	line:63
+updateUserData	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function updateUserData(){$/;"	function	line:63
+loadUsers	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function loadUsers(fn){$/;"	function	line:68
+loadUsers	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function loadUsers(fn){$/;"	function	line:68
+renderUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function renderUser(user){$/;"	function	line:76
+renderUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function renderUser(user){$/;"	function	line:76
+getChatId	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getChatId(id1,id2) {$/;"	function	line:84
+getChatId	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getChatId(id1,id2) {$/;"	function	line:84

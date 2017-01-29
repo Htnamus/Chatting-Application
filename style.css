@@ -46,15 +46,16 @@ body.homepage{
 
 }
 .login:hover{
-	background-color: transparent;
-	border-color:white;
+	border-color: #d9d9d9;
+	color: #d9d9d9;
+	cursor: pointer;
 }
 .sidebar{
 	position: fixed;
 	left:0;
 	top:0;
 	bottom:0;
-	background-color: #0077b3;
+	background-color:#0099e6;
 	width: 32%
 }
 
@@ -82,7 +83,7 @@ body.homepage{
 	left:25.5%;
 	color:inherit;
 
-	background-color: inherit;;
+	background-color: transparent;
 	border:none;
 }
 .logout:hover{
@@ -101,12 +102,19 @@ body.homepage{
 	background-size: cover;
 }
 
-.chat_member:hover{
+.members:hover{
 	color:#004466;
 	background-color: white;
 	border-width: 2.5px;
 }
+
 .chat_member{
+	background-color: #0077b3;
+	position: relative;
+	top:18.1%;
+	left:0%;
+}
+.members{
 	position: relative;
 	top:18.1%;
 	left:0%;
@@ -116,11 +124,24 @@ body.homepage{
 	padding:37.5px 10px  37.5px 20px;
 	border-width: 1.2px;
 }
+.currentChatter{
+	background-color: #0077b3;
+	color: white;
+	font-size: 1.5em;
+	width:68%;
+	height: 7%;
+	position: fixed;
+	left:32%;
+	top:0%;
+	padding: 1.3%;
+	text-align: center;
+}
 
 .my_message{
 	position: relative;
 	background-color: #4dc3ff;
 	left:38%;
+	top:8%;
 	border: solid;
 	border-color: #4dc3ff;
 	border-radius: 20px;
@@ -136,6 +157,7 @@ body.homepage{
 	position: relative;
 	background-color: white;
 	left:33%;
+	top:8%;
 	border: solid;
 	border-color: white;
 	border-radius: 20px;
@@ -145,16 +167,17 @@ body.homepage{
 }
 .textBox{
 
-	background-color: #00aaff;
-	position: relative;
+	background-color: #0099e6;
+	position: fixed;
 	border-color: white;
-	top:85px;
+	top:91.5%;
+	height: 80%;
 	width: 68%;
 	left:32%;
 }
 .text{
 	border:1000px;
-	border-color: #00aaff;
+	border-color: #0099e6;
 	width: 62%;
 	height: 3%;
 	position: fixed;

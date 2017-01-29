@@ -3,7 +3,7 @@
 <html>
 
 <head >
-	<title>Htnamus' Chatbox:</title>
+	<title>HtnamuS' Chatbox:</title>
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" rel="stylesheet" />
 	<link  href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
@@ -14,17 +14,17 @@
 <body class="homepage">
 	<div class="sidebar">
 		<div class="user">
-			<div class="name">Sumanth Tangirala</div>
+			<div class="name">
+				<span id="username"></span>
+			</div>
 			<button class="logout">Log Out</button>
 		</div>
-		<div class="chat_member">Rohit Bangaram</div>
-		<div class="chat_member">Chatter1</div>
-		<div class="chat_member">Chatter2</div>
-	</div>
-	<div class="main_stuff">
-		<div class="current_chatter">
+		<div class="chat_member" id="chat_member">
 
 		</div>
+	</div>
+	<div class="main_stuff">
+		<div class="currentChatter" >Rohit Bangaram</div>
 		<div class="other_message">Hi</div>
 		<div class="my_message">Hey there</div>
 		<div class="other_message">What are you doing?</div>
@@ -37,7 +37,21 @@
 			<input type="submit" class="send" value="Send">
 		</form>
 	</div>
-
+	<script src="https://www.gstatic.com/firebasejs/3.6.7/firebase.js"></script>
+	<script>
+  	// Initialize Firebase
+  		var config = {
+    			apiKey: "AIzaSyBG9XgGXR6MY0aahZNQ6YP4lHslRGk5gCc",
+    			authDomain: "htnamus-chat.firebaseapp.com",
+    			databaseURL: "https://htnamus-chat.firebaseio.com",
+    			storageBucket: "htnamus-chat.appspot.com",
+    			messagingSenderId: "225868183294"
+  		};
+  		firebase.initializeApp(config);
+	</script>
+	<script type="text/javascript" src="functions.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+	<script type="text/javascript" src="chat.js"></script>
 
 </body>
 </html>
