@@ -102,19 +102,13 @@ body.homepage{
 	background-size: cover;
 }
 
-.members:hover{
+.chat_member:hover{
 	color:#004466;
 	background-color: white;
 	border-width: 2.5px;
 }
-
 .chat_member{
 	background-color: #0077b3;
-	position: relative;
-	top:18.1%;
-	left:0%;
-}
-.members{
 	position: relative;
 	top:18.1%;
 	left:0%;
@@ -137,7 +131,7 @@ body.homepage{
 	text-align: center;
 }
 
-.my_message{
+.message_by_me{
 	position: relative;
 	background-color: #4dc3ff;
 	left:38%;
@@ -151,7 +145,7 @@ body.homepage{
 	padding-right: 20px;
 	margin:20px;
 }
-.other_message{
+.message{
 	margin:20px;
 	padding: 2px;
 	position: relative;

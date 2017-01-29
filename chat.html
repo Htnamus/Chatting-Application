@@ -25,16 +25,17 @@
 	</div>
 	<div class="main_stuff">
 		<div class="currentChatter" >Rohit Bangaram</div>
-		<div class="other_message">Hi</div>
-		<div class="my_message">Hey there</div>
+		<div class="messages">Hi</div>
+		<!-- <div class="my_message">Hey there</div>
 		<div class="other_message">What are you doing?</div>
-		<div class="my_message">Making this application</div>
+		<div class="my_message">Making this application</div> -->
 	</div>
 	<div class="textBox">
 		<br><br>
-<br><br><br><br>		<form>
-		 	<input type="text" class="text" name="text" placeholder="  Enter the message...">
-			<input type="submit" class="send" value="Send">
+<br><br><br><br>		<form class="chat-form">
+			<input type"hidden" id="chat-id"/>
+		 	<input type="text" class="text" name="text" id="message-text" placeholder="  Enter the message...">
+			<input type="submit" class="send" id="send-button" value="Send">
 		</form>
 	</div>
 	<script src="https://www.gstatic.com/firebasejs/3.6.7/firebase.js"></script>

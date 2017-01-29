@@ -4,28 +4,25 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-click	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function click(elementId,fn){$/;"	function	line:1
-click	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function click(elementId,fn){$/;"	function	line:1
-redirect	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function redirect(path){$/;"	function	line:8
-redirect	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function redirect(path){$/;"	function	line:8
-logInUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInUser(){$/;"	function	line:12
-logInUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInUser(){$/;"	function	line:12
-logInWithGoogle	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInWithGoogle(){$/;"	function	line:15
-logInWithGoogle	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function logInWithGoogle(){$/;"	function	line:15
-createUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function createUser(uid, uname, uemail){$/;"	function	line:26
-createUser.user.id	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^	var user={$/;"	property	line:29
-createUser.user.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^		id:uid,$/;"	property	line:30
-createUser.user.email	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^		name:uname,$/;"	property	line:31
-createUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function createUser(uid, uname, uemail){$/;"	function	line:26
-ifUserIsLoggedIn	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function ifUserIsLoggedIn(fn){$/;"	function	line:45
-ifUserIsLoggedIn	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function ifUserIsLoggedIn(fn){$/;"	function	line:45
-getElement	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getElement(id){$/;"	function	line:60
-getElement	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getElement(id){$/;"	function	line:60
-updateUserData	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function updateUserData(){$/;"	function	line:63
-updateUserData	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function updateUserData(){$/;"	function	line:63
-loadUsers	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function loadUsers(fn){$/;"	function	line:68
-loadUsers	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function loadUsers(fn){$/;"	function	line:68
-renderUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function renderUser(user){$/;"	function	line:76
-renderUser	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function renderUser(user){$/;"	function	line:76
-getChatId	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getChatId(id1,id2) {$/;"	function	line:84
-getChatId	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/functions.js	/^function getChatId(id1,id2) {$/;"	function	line:84
+html, body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^html, body {$/;"	function	line:1
+*, *:before, *:after	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^*, *:before, *:after {$/;"	function	line:7
+body	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^body{$/;"	function	line:11
+body.homepage	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^body.homepage{$/;"	function	line:15
+.main_page	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_page{$/;"	function	line:20
+.login	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login{$/;"	function	line:30
+.login:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.login:hover{$/;"	function	line:48
+.sidebar	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.sidebar{$/;"	function	line:53
+.user	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.user{$/;"	function	line:62
+.name	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.name{$/;"	function	line:72
+.logout	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout{$/;"	function	line:79
+.logout:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.logout:hover{$/;"	function	line:89
+.main_stuff	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.main_stuff{$/;"	function	line:94
+.chat_member:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.chat_member:hover{$/;"	function	line:105
+.chat_member	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.chat_member{$/;"	function	line:110
+.currentChatter	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.currentChatter{$/;"	function	line:121
+.message_by_me	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.message_by_me{$/;"	function	line:134
+.message	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.message{$/;"	function	line:148
+.textBox	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.textBox{$/;"	function	line:162
+.text	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.text{$/;"	function	line:172
+.send	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.send{$/;"	function	line:182
+.send:hover	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/style.css	/^.send:hover{$/;"	function	line:192
