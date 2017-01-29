@@ -19,10 +19,14 @@ button	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<button 
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Rohit Bangaram<\/div>$/;"	function	line:20
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Chatter1<\/div>$/;"	function	line:21
 div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_member">Chatter2<\/div>$/;"	function	line:22
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="chat_members">Chatterer:5<\/div> -->$/;"	function	line:24
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="main_stuff">$/;"	function	line:26
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="current_chatter">$/;"	function	line:27
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">Making this application<\/div>$/;"	function	line:30
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="my_message">What are you doing<\/div>$/;"	function	line:31
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">Hi\/div>$/;"	function	line:32
-div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="my_message">Hey there<\/div>$/;"	function	line:33
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="main_stuff">$/;"	function	line:24
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="current_chatter">$/;"	function	line:25
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">Hi<\/div>$/;"	function	line:28
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="my_message">Hey there<\/div>$/;"	function	line:29
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="other_message">What are you doing?<\/div>$/;"	function	line:30
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<div class="my_message">Making this application<\/div>$/;"	function	line:31
+div	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^	<div class="textBox">$/;"	function	line:33
+br	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		<br><br>$/;"	function	line:34
+br	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^<br><br><br><br>		<form>$/;"	function	line:35
+input	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^		 	<input type="text" class="text" name="text" placeholder="  Enter the message...">$/;"	function	line:36
+input	/Users/Htnamus/All Stuff/Programming Stuff/Webkit/chat.html	/^			<input type="submit" class="send" value="Send">$/;"	function	line:37

@@ -12,7 +12,11 @@ body{
 	background-image: url("background.jpg");
 	background-size: cover;
 }
+body.homepage{
+	background-color: #80d4ff;
+	background-image: none;
 
+}
 .main_page{
 	position: fixed;
 	left: 21%;
@@ -35,10 +39,10 @@ body{
 	position: fixed;
 	left: 37%;
 	top: 63%;
-	height:50px;
-	width:450px;
-	padding: 30px;
-	font-size: 1em;
+	height:73px;
+	width:352px;
+	padding: 11px;
+	font-size: .7em;
 
 }
 .login:hover{
@@ -92,7 +96,7 @@ body{
 	bottom:0;
 	left:30%;
 	width:100%;
-	height:100%;
+	height:80%;
 	background-color: #80d4ff;
 	background-size: cover;
 }
@@ -100,6 +104,7 @@ body{
 .chat_member:hover{
 	color:#004466;
 	background-color: white;
+	border-width: 2.5px;
 }
 .chat_member{
 	position: relative;
@@ -114,5 +119,59 @@ body{
 
 .my_message{
 	position: relative;
-	top=
+	background-color: #4dc3ff;
+	left:38%;
+	border: solid;
+	border-color: #4dc3ff;
+	border-radius: 20px;
+	width: 60%;
+	text-align: right;
+	padding: 2px;
+	padding-right: 20px;
+	margin:20px;
+}
+.other_message{
+	margin:20px;
+	padding: 2px;
+	position: relative;
+	background-color: white;
+	left:33%;
+	border: solid;
+	border-color: white;
+	border-radius: 20px;
+	width: 60%;
+	text-align: left;
+	padding-left: 20px;
+}
+.textBox{
+
+	background-color: #00aaff;
+	position: relative;
+	border-color: white;
+	top:85px;
+	width: 68%;
+	left:32%;
+}
+.text{
+	border:1000px;
+	border-color: #00aaff;
+	width: 62%;
+	height: 3%;
+	position: fixed;
+	top:94.4%;
+	left:33%;
+	border-radius: 30px;
+}
+.send{
+	float: right;
+	position: fixed;
+	top:94.4%;
+	left:95.5%;
+	border-radius: 30px;
+	background-color: #004466;
+	color:#80d4ff;
+	border:solid;
+}
+.send:hover{
+	background-color: #00334d;
 }
